@@ -14,10 +14,6 @@
 - Node.js
 - Django
 
-### 📚 Projetos:
-- [Meu Repositório de Projetos em React](https://github.com/SeuUsuario/ProjetoReact)
-- [Projeto em Python para Análise de Dados](https://github.com/SeuUsuario/ProjetoPython)
-
 ### 📫 Como me encontrar:
 - [LinkedIn][(https://www.linkedin.com/in/guilherme-caires-martini/](https://www.linkedin.com/in/guilherme-martini-8020521a3/?trk=opento_sprofile_details))
 - [Portfólio Pessoal] em progresso
