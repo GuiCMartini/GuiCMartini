@@ -1,9 +1,5 @@
 ## Guilherme Caires Martini
 
-<div align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiCMartini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true" height="150" alt="languages graph"/>
-</div>
-
 ## 🧑‍💻 Sobre Mim
 Sou um desenvolvedor apaixonado por Python, Django e JavaScript. Atualmente estou focado em projetos web e automações.
 
