@@ -17,3 +17,6 @@
 ### 📫 Como me encontrar:
 - [LinkedIn][(https://www.linkedin.com/in/guilherme-caires-martini/](https://www.linkedin.com/in/guilherme-martini-8020521a3/?trk=opento_sprofile_details))
 - [Portfólio Pessoal] em progresso
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiCMartini&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+</div>
