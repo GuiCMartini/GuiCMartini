@@ -1,8 +1,9 @@
 ## 𝔾𝕦𝕚𝕝𝕙𝕖𝕞𝕖 ℂ𝕒𝕚𝕣𝕖𝕤 𝕄𝕒𝕣𝕥𝕚𝕟𝕚
 
 
-## 🧑‍💻 Sobre Mim
-Sou um desenvolvedor apaixonado por Python, Django e JavaScript. Atualmente estou focado em projetos web e automações.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre) na Universidade da Cidade de São Paulo.
+🌍  Português (nativo), Inglês (intermediário/avançado) e Espanhol (intermediário).
+💻  Desenvolvedor focado em Python, Django, JavaScript, HTML e CSS, com interesse em desenvolvimento web, automações e aprendizado contínuo.
 
 
 ## 📚 Projetos
