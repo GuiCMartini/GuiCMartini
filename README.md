@@ -2,7 +2,9 @@
 
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre) na Universidade da Cidade de São Paulo.
+
 🌍  Português (nativo), Inglês (intermediário/avançado) e Espanhol (intermediário).
+
 💻  Desenvolvedor focado em Python, Django, JavaScript, HTML e CSS, com interesse em desenvolvimento web, automações e aprendizado contínuo.
 
 
