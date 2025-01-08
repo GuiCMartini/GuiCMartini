@@ -19,8 +19,9 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiCMartini&locale=en&hide_title=true&layout=pie&card_width=320&langs_count=6&theme=dark&hide_border=true" height="150" alt="languages pie graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiCMartini&locale=en&hide_title=true&layout=compact&langs_count=5&theme=midnight-purple&card_width=400&hide_border=true" height="150" alt="languages card"/>
 </div>
+
 
 
 
