@@ -18,12 +18,8 @@
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GuiCMartini&locale=en&hide_title=true&layout=compact&langs_count=5&theme=midnight-purple&card_width=400&hide_border=true" height="150" alt="languages card"/>
-</div>
 
 
 
 
-- ### 📫 Como me encontrar:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/guilherme-caires-martini/)](https://www.linkedin.com/in/guilherme-martini-8020521a3/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/guilherme-caires-martini/)](https://www.linkedin.com/in/guilherme-martini-8020521a3/)
