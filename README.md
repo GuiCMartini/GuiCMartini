@@ -23,3 +23,9 @@
 
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/guilherme-caires-martini/)](https://www.linkedin.com/in/guilherme-martini-8020521a3/)
+
+###
+
+<img src="https://raw.githubusercontent.com/guicmartini/guicmartini/output/snake.svg" alt="Snake animation" />
+
+###
