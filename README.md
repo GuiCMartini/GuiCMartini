@@ -5,8 +5,7 @@
 
 🌍  Português (nativo), Inglês (/avançado) e Espanhol (intermediário).
 
-## 📚 Projetos
-- [Projeto Python com Django] Em estado final...
+
 
 
 <div align="center"> 
