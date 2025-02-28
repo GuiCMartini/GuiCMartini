@@ -1,7 +1,12 @@
 ## 𝔾𝕦𝕚𝕝𝕙𝕖𝕞𝕖 ℂ𝕒𝕚𝕣𝕖𝕤 𝕄𝕒𝕣𝕥𝕚𝕟𝕚
 
 
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre) na Universidade da Cidade de São Paulo.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre)
+ Universidade da Cidade de São Paulo.(UNICID)
+ Alura
+ Bradesco
+ Udemy
+ 
 
 🌍  Português (nativo), Inglês (/avançado) e Espanhol (intermediário).
 
