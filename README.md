@@ -1,35 +1,28 @@
-## 𝔾𝕦𝕚𝕝𝕙𝕖𝕞𝕖 ℂ𝕒𝕚𝕣𝕖𝕤 𝕄𝕒𝕣𝕥𝕚𝕟𝕚
-
-
-🎓 Estudante de Análise e Desenvolvimento de Sistemas (4º semestre)
- Universidade da Cidade de São Paulo.(UNICID)
- Alura
- Bradesco
- Udemy
- 
-
-🌍  Português (nativo), Inglês (/avançado) e Espanhol (intermediário).
-
-
-
-
-<div align="center"> 
-  <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div align="center">
+  <a href="https://github.com/GuiCMartini">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuiCMartini&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide=issues"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiCMartini&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-![Distribuição de Linguagens de Programação](https://raw.githubusercontent.com/guicmartini/guicmartini/main/assets/languages_pizza.png)
+## **Linguagens e Ferramentas:**
+<div style="display: inline_block"><br>
+  <p align="center">
+    <img align="center" height="40" width="50" alt="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <img align="center" height="40" width="50" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" height="40" width="50" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" height="40" width="50" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+    <img align="center" height="40" width="50" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <img align="center" height="40" width="50" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" height="40" width="50" alt="Git"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
+  </p>
+</div>
 
-
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/guilherme-caires-martini/)](https://www.linkedin.com/in/guilherme-martini-8020521a3/)
-
-###
-
-<img src="https://raw.githubusercontent.com/guicmartini/guicmartini/output/snake.svg" alt="Snake animation" />
-
-###
+## **Vamos nos Conectar:**
+<div>
+  <p align="center">
+    <a href="https://www.youtube.com/@JonathanCosta746/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+    <a href="https://instagram.com/jonathansantos.costa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+    <a href = "mailto:jonathancosta746@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/jonathansantos-costa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  </p>
+</div>
