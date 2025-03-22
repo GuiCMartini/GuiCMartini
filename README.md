@@ -23,6 +23,7 @@
 </div>
 
 
+![Gráfico de Linguagens](https://github.com/GuiCMartini/pizzaria/blob/main/images/grafico_pizza.png)
 
 
 
