@@ -22,8 +22,7 @@
   <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 
-
-![Gráfico de Linguagens](https://github.com/GuiCMartini/pizzaria/blob/main/images/grafico_pizza.png)
+![Distribuição de Linguagens de Programação](https://raw.githubusercontent.com/guicmartini/guicmartini/main/assets/languages_pizza.png)
 
 
 
