@@ -6,16 +6,18 @@
 
 <h2 align="center">Linguagens e Ferramentas:</h2>
 <div style="display: inline_block"><br>
-  <p align="center">
+<p align="center">
     <img align="center" height="40" width="50" alt="Html" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" height="40" width="50" alt="CSS" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" height="40" width="50" alt="JavaScript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="40" width="50" alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
     <img align="center" height="40" width="50" alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
     <img align="center" height="40" width="50" alt="MySql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+    <img align="center" height="40" width="50" alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
     <img align="center" height="40" width="50" alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg">
     <img align="center" height="40" width="50" alt="Go" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg">
-  </p>
+</p>
+
 </div>
 
 <h2 align="center">Vamos nos Conectar:</h2>
