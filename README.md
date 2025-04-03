@@ -69,13 +69,7 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. M
   
 </div>
 
-## 📊 GitHub Stats
 
-<div align="center">
-  
-  ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=GuiCMartini&theme=tokyonight)  
-  
-</div>
 
 ## 📫 Contato
 
