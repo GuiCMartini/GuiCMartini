@@ -17,7 +17,6 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. M
   </a>
 </div>
 
-## 🚀 Projetos em Destaque
 
 <div align="center">
   
