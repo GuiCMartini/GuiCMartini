@@ -99,3 +99,5 @@ Sou um desenvolvedor apaixonado por criar soluções eficientes e escaláveis. M
   [![](https://visitcount.itsvg.in/api?id=GuiCMartini&icon=0&color=0)](https://visitcount.itsvg.in)
   
 </div>
+
+## Projetos
